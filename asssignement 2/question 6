@@ -1,0 +1,11 @@
+main()
+{
+char string[]="hemanth world";
+display(string);
+}
+void display(char *string)
+{
+printf("%s",string);
+}
+
+the output of the program is hemanth world
